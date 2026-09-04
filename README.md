@@ -134,20 +134,6 @@ These experiences continue to influence how I approach teamwork, projects and le
 
 ---
 
-
-
-## 🎯 2026–27 Goals
-
-* 📈 Strengthen DSA and problem-solving
-* 🤖 Build deeper expertise in AI/ML
-* 🌐 Develop production-quality full-stack applications
-* ☁️ Learn cloud and deployment technologies
-* 🏗️ Build impactful real-world projects
-* 🏆 Participate in more hackathons and technical competitions
-* 🤝 Contribute to developer communities and open source
-
----
-
 ## 📊 GitHub Stats
 
 ![Rasika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasikachavan13\&show_icons=true\&theme=tokyonight\&hide_border=true)
