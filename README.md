@@ -134,25 +134,7 @@ These experiences continue to influence how I approach teamwork, projects and le
 
 ---
 
-## 📚 Currently Learning
 
-```text
-Data Structures & Algorithms
-        ↓
-Python & C/C++
-        ↓
-Machine Learning
-        ↓
-Generative AI
-        ↓
-Full-Stack Development
-        ↓
-Cloud & Scalable Systems
-```
-
-I believe in learning by **building**, not just collecting technologies.
-
----
 
 ## 🎯 2026–27 Goals
 
