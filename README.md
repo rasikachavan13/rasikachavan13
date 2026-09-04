@@ -134,14 +134,6 @@ These experiences continue to influence how I approach teamwork, projects and le
 
 ---
 
-## 📊 GitHub Stats
-
-![Rasika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasikachavan13\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasikachavan13\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 💼 **LinkedIn:** [Rasika Chavan](https://www.linkedin.com/in/rasika-chavan-0a3761377/)
