@@ -1,4 +1,4 @@
-Rasika Chavan
+### Rasika Chavan
 
 ### Computer Science Undergraduate | AI/ML & Software Engineering | Full-Stack Development | DSA
 
