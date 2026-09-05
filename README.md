@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rasika Chavan
+Rasika Chavan
 
 ### Computer Science Undergraduate | AI/ML & Software Engineering | Full-Stack Development | DSA
 
@@ -10,22 +10,22 @@ Currently, I’m focused on strengthening my foundations in **Data Structures & 
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 Computer Science undergraduate based in Pune, Maharashtra
-* 💻 Interested in **Software Engineering, AI/ML, Full-Stack Development & Mobile Development**
-* 🧠 Currently strengthening **DSA, Python, C/C++, AI/ML and backend development**
-* 📱 Building cross-platform applications with **React Native & Expo**
-* 🤖 Exploring **Computer Vision, Generative AI and intelligent applications**
-* 🌐 Building web applications and APIs while learning modern development practices
-* 🏆 Participating in hackathons and building solutions for real-world problems
-* 🪖 Former **NCC Corporal**, developing leadership, discipline and teamwork
-* 🔬 Interested in research, innovation and technology that creates practical impact
-* 🌱 Always learning, building and improving
+* Computer Science undergraduate based in Pune, Maharashtra
+* Interested in **Software Engineering, AI/ML, Full-Stack Development & Mobile Development**
+* Currently strengthening **DSA, Python, C/C++, AI/ML and backend development**
+* Building cross-platform applications with **React Native & Expo**
+* Exploring **Computer Vision, Generative AI and intelligent applications**
+* Building web applications and APIs while learning modern development practices
+* Participating in hackathons and building solutions for real-world problems
+* Former **NCC Corporal**, developing leadership, discipline and teamwork
+* Interested in research, innovation and technology that creates practical impact
+* Always learning, building and improving
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -68,9 +68,9 @@ Currently, I’m focused on strengthening my foundations in **Data Structures & 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 AI Voice Agent
+###AI Voice Agent
 
 A hands-on exploration of **AI voice agents using Google's Agent Development Kit**, covering conversational agents, tools, voice interaction, streaming, transcription, WebSockets and production-oriented failure handling.
 
@@ -78,7 +78,7 @@ A hands-on exploration of **AI voice agents using Google's Agent Development Kit
 
 ---
 
-### 🎯 CareerIQ — AI-Powered Career Intelligence & Resume Analyzer
+### CareerIQ — AI-Powered Career Intelligence & Resume Analyzer
 
 A career-focused application designed to help users analyze resumes, understand career opportunities and make more informed career decisions.
 
@@ -86,7 +86,7 @@ A career-focused application designed to help users analyze resumes, understand 
 
 ---
 
-### 🌐 DevConnect
+### DevConnect
 
 A developer-focused web project created to explore modern web development, user interfaces and developer-oriented digital experiences.
 
@@ -94,7 +94,7 @@ A developer-focused web project created to explore modern web development, user 
 
 ---
 
-### ⚡ Hackholics — PitchLite
+### Hackholics — PitchLite
 
 A hackathon project designed to help users create a structured **one-minute pitch** using guided prompts and generate a clean, presentable summary.
 
@@ -102,22 +102,22 @@ A hackathon project designed to help users create a structured **one-minute pitc
 
 ---
 
-### 🔬 Research & Technical Work
+### Research & Technical Work
 
 Exploring AI/ML, software engineering and technology through academic and project-based work, including research-oriented development and experimentation.
 
 ---
 
-## 🏆 Hackathons & Community
+## Hackathons & Community
 
-* 🚀 Participated in **Helix Hack Carnival / PitchLite Hackathon**
-* 💡 Building and experimenting with technology through hackathons and collaborative projects
-* 🌐 Active in developer communities and technical events
-* 🎤 Interested in technical leadership, community building and developer advocacy
+* Participated in **Helix Hack Carnival / PitchLite Hackathon**
+* Building and experimenting with technology through hackathons and collaborative projects
+* Active in developer communities and technical events
+* Interested in technical leadership, community building and developer advocacy
 
 ---
 
-## 🪖 Leadership
+## Leadership
 
 ### National Cadet Corps — Corporal
 
@@ -134,15 +134,15 @@ These experiences continue to influence how I approach teamwork, projects and le
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-💼 **LinkedIn:** [Rasika Chavan](https://www.linkedin.com/in/rasika-chavan-0a3761377/)
+**LinkedIn:** [Rasika Chavan](https://www.linkedin.com/in/rasika-chavan-0a3761377/)
 
-💻 **GitHub:** [@rasikachavan13](https://github.com/rasikachavan13)
+**GitHub:** [@rasikachavan13](https://github.com/rasikachavan13)
 
 ---
 
-### 💡 Developer Philosophy
+### Developer Philosophy
 
 > **Build. Learn. Experiment. Improve. Repeat.**
 
