@@ -147,5 +147,4 @@ These experiences continue to influence how I approach teamwork, projects and le
 > **Build. Learn. Experiment. Improve. Repeat.**
 
 I’m always open to learning, collaborating and building something meaningful.
-
-⭐ If you find something interesting in my repositories, feel free to explore, contribute or connect!
+If you find something interesting in my repositories, feel free to explore, contribute or connect!
