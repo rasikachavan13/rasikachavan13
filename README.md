@@ -1,4 +1,4 @@
-##### Hi ! I am Rasika Chavan.
+# Hi ! I am Rasika Chavan.
 
 ### Computer Science Undergraduate | AI/ML & Software Engineering | Full-Stack Development | DSA
 
