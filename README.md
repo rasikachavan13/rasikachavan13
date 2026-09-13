@@ -70,7 +70,7 @@ Currently, I’m focused on strengthening my foundations in **Data Structures & 
 
 ## Featured Projects
 
-###AI Voice Agent
+### AI Voice Agent
 
 A hands-on exploration of **AI voice agents using Google's Agent Development Kit**, covering conversational agents, tools, voice interaction, streaming, transcription, WebSockets and production-oriented failure handling.
 
