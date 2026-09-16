@@ -142,7 +142,7 @@ These experiences continue to influence how I approach teamwork, projects and le
 
 ---
 
-# Developer Philosophy
+# Developer's Philosophy
 
 > **Build. Learn. Experiment. Improve. Repeat.**
 
