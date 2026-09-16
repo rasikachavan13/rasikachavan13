@@ -2,7 +2,7 @@
 
 ### Computer Science Undergraduate | AI/ML & Software Engineering | Full-Stack Development | DSA
 
-I’m a Computer Science undergraduate passionate about **building practical software, exploring AI/ML, and turning real-world problems into technology-driven solutions.**
+I’m a Computer Science undergraduate student passionate about **building practical software, exploring AI/ML, and turning real-world problems into technology-driven solutions.**
 
 I enjoy working across the stack — from designing interfaces and mobile applications to building backend systems and experimenting with intelligent applications.
 
