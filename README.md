@@ -35,7 +35,7 @@ Currently, I’m focused on strengthening my foundations in **Data Structures & 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### AI / ML
+### AI and ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge\&logoColor=white)
