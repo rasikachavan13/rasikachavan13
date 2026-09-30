@@ -1,204 +1,151 @@
-# 👋 Hey, I'm Rasika Chavan
+# Hi ! I am Rasika Chavan.
+ 
+### Computer Science Undergraduate | AI/ML & Software Engineering | Full-Stack Development | DSA
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Science+Undergraduate;AI%2FML+%26+Software+Engineering+Enthusiast;Full-Stack+%7C+Mobile+%7C+AI;DSA+%7C+Open+Source+%7C+Building;Always+Learning.+Always+Building." alt="Typing SVG" />
-</p>
+I’m a Computer Science undergraduate student passionate about **building practical software, exploring AI/ML, and turning real-world problems into technology-driven solutions.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rasikachavan13&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/rasikachavan13?label=Followers&style=flat" alt="followers"/>
-</p>
+I enjoy working across the stack — from designing interfaces and mobile applications to building backend systems and experimenting with intelligent applications.
 
----
-
-## 🧑‍💻 About Me
-
-```python
-class Rasika:
-
-    role = "Computer Science Undergraduate"
-
-    interests = [
-       
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full-Stack Development",
-        "Mobile Development",
-        "Data Structures & Algorithms",
-       
-    ]
-
-    currently_learning = [
-        "DSA",
-        "Python",
-        "C++",
-        "AI / ML",
-    ]
-
-    currently_building = [
-        "AI-powered applications",
-        "Full-stack projects",
-        "Mobile applications",
-        "Open-source contributions"
-    ]
-
-    philosophy = "Build. Learn. Experiment. Improve. Repeat."
-```
-
-🎓 Computer Science undergraduate based in **Pune, Maharashtra**
-
-🤖 Exploring **AI/ML, Computer Vision, Generative AI and intelligent applications**
-
-💻 Strengthening **DSA, C/C++, Python and Software Engineering**
-
-🌐 Building with **Web, Backend and Mobile technologies**
-
-🚀 Participating in **hackathons and developer communities**
-
-🪖 NCC Corporal — leadership, discipline and teamwork
+Currently, I’m focused on strengthening my foundations in **Data Structures & Algorithms, Artificial Intelligence, Machine Learning, Full-Stack Development, and Cloud technologies.**
 
 ---
 
-# ⚡ Tech Stack
+# About Me
 
-### 👩‍💻 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" />
-</p>
-
-### 🤖 AI / ML
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-`Machine Learning` • `Computer Vision` • `Generative AI` • `AI Applications`
-
-### 🌐 Web & Mobile
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,expo" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,flask,firebase,postgres" />
-</p>
-
-### 🛠️ Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+* Computer Science undergraduate based in Pune, Maharashtra
+* Interested in **Software Engineering, AI/ML, Full-Stack Development & Mobile Development**
+* Currently strengthening **DSA, Python, C/C++, AI/ML and backend development**
+* Building cross-platform applications with **React Native & Expo**
+* Exploring **Computer Vision, Generative AI and intelligent applications**
+* Building web applications and APIs while learning modern development practices
+* Participating in hackathons and building solutions for real-world problems
+* Former **NCC Corporal**, developing leadership, discipline and teamwork
+* Interested in research, innovation and technology that creates practical impact
+* Always learning, building and improving
 
 ---
 
-# 🚀 Featured Projects
+# Tech Stack
 
-### 🧠 CareerIQ
+### Languages
 
-**AI-Powered Career Intelligence & Resume Analyzer**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-A career-focused application designed to analyze resumes, explore career opportunities and provide structured career insights.
+### AI and ML
 
-**Tech:** `React Native` `Expo` `JavaScript` `Python` `Backend APIs`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge\&logoColor=white)
 
----
+* Machine Learning
+* Computer Vision
+* Generative AI
+* AI-powered applications
+* Model experimentation
 
-### 🎙️ AI Voice Agent
+### Web & Mobile
 
-Exploring conversational AI and voice-agent architecture using Google's Agent Development Kit.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-**Tech:** `Python` `Google ADK` `Gemini` `FastAPI` `WebSockets`
+### Backend & Database
 
-Exploring:
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-* 🎤 Voice interaction
-* 🧠 Conversational agents
-* 🔌 Tool integration
-* ⚡ Streaming
-* 📝 Transcription
-* 🌐 WebSockets
-* 🛡️ Failure handling
+### Tools
 
----
-
-### 🌐 DevConnect
-
-Developer-focused web application exploring modern web development, UI design and interactive experiences.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-### ⚡ PitchLite
-
-Hackathon project designed to help users create a structured **one-minute pitch** using guided prompts.
-
-**Tech:** `HTML` `CSS` `JavaScript`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasikachavan13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikachavan13&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+### AI Voice Agent
 
----
+A hands-on exploration of **AI voice agents using Google's Agent Development Kit**, covering conversational agents, tools, voice interaction, streaming, transcription, WebSockets and production-oriented failure handling.
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rasikachavan13&theme=tokyonight&hide_border=true" />
-</p>
+**Tech:** Python · Google ADK · Gemini · FastAPI · WebSockets
 
 ---
 
-# 🐍 Contribution Snake
+### CareerIQ — AI-Powered Career Intelligence & Resume Analyzer
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rasikachavan13/rasikachavan13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+A career-focused application designed to help users analyze resumes, understand career opportunities and make more informed career decisions.
 
----
-
-# 📌 GitHub Achievements
-
-<p align="center">
-
-🏹 **Pull Shark**
-🎯 **Quickdraw**
-🚀 **YOLO**
-
-</p>
-
-> Building consistently, contributing to open source and learning in public.
+**Tech:** JavaScript · React Native/Expo · Python · Backend APIs
 
 ---
 
-# 🌱 Open Source & Community
+### DevConnect
 
-* 🔓 Exploring open-source contribution
-* 🐙 Building consistently on GitHub
-* 💻 Participating in developer communities
-* 🚀 Participating in hackathons
-* 🤝 Interested in technical leadership
-* 🌍 Learning through collaboration and contribution
+A developer-focused web project created to explore modern web development, user interfaces and developer-oriented digital experiences.
+
+**Tech:** HTML · CSS · JavaScript
 
 ---
 
-# 🪖 Leadership
+### Hackholics — PitchLite
+
+A hackathon project designed to help users create a structured **one-minute pitch** using guided prompts and generate a clean, presentable summary.
+
+**Tech:** Web Development · JavaScript
+
+---
+
+### Research & Technical Work
+
+Exploring AI/ML, software engineering and technology through academic and project-based work, including research-oriented development and experimentation.
+
+---
+
+## Hackathons & Community
+
+* Participated in **Helix Hack Carnival / PitchLite Hackathon**
+* Building and experimenting with technology through hackathons and collaborative projects
+* Active in developer communities and technical events
+* Interested in technical leadership, community building and developer advocacy
+
+---
+
+# Leadership
 
 ### National Cadet Corps — Corporal
 
-NCC helped me develop:
+Served as a Corporal in NCC, developing:
 
-`Leadership` • `Discipline` • `Teamwork` • `Communication` • `Decision Making` • `Responsibility`
+* Leadership
+* Discipline
+* Team coordination
+* Communication
+* Decision-making
+* Responsibility
 
-I bring these qualities into my technical projects, teamwork and community activities.
+These experiences continue to influence how I approach teamwork, projects and leadership in technology.
 
 ---
+
+# Let's Connect
+
+**LinkedIn:** [Rasika Chavan](https://www.linkedin.com/in/rasika-chavan-0a3761377/)
+
+**GitHub:** [@rasikachavan13](https://github.com/rasikachavan13)
+
+---
+
+# Developer's Philosophy
+
+> **Build. Learn. Experiment. Improve. Repeat.**
+
+I’m always open to learning, collaborating and building something meaningful.
+If you find something interesting in my repositories, feel free to explore, contribute or connect!
+    i want actual developer mode readme like animations, stats ,snake in activity
