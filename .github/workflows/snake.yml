@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -8,6 +8,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate Snake
@@ -21,7 +24,7 @@ jobs:
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
