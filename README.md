@@ -4,7 +4,7 @@ Goal: build ML models that are accurate, explainable, and actually useful.
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-#Tech Stack
+Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -16,7 +16,7 @@ Goal: build ML models that are accurate, explainable, and actually useful.
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p> <!-- Contribution activity graph --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ec4899&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="95%"/> </p> <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-#🎯 Goals
+🎯 Goals
 
 - [x] Master Python fundamentals
 - [x] Learn core ML algorithms
