@@ -3,25 +3,25 @@
 Goal: build ML models that are accurate, explainable, and actually useful.
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
-## 🛠️ Tech Stack
+
+#Tech Stack
 
 | Category | Tools |
 |---|---|
 | **Languages** | Python, SQL, C++ / Java |
 | **ML / DL** | Scikit-learn, TensorFlow, Keras, PyTorch |
-| **Data** | Pandas, NumPy, Matplotlib, Seaborn |
-| **CV / NLP** | OpenCV, NLTK, Hugging Face |
+| **Data** | Pandas, NumPy, Matplotlib |
 | **Backend / Deploy** | Flask, FastAPI, Streamlit, Docker |
 | **Tools** | Jupyter, Google Colab, VS Code, Git, GitHub |
 
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p> <!-- Contribution activity graph --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=ec4899&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="95%"/> </p> <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
-## 🎯 Goals
+#🎯 Goals
 
 - [x] Master Python fundamentals
 - [x] Learn core ML algorithms
 - [ ] Build & deploy 5 end-to-end ML projects
 - [ ] Learn deep learning with PyTorch
 - [ ] Land an AI/ML internship
-- [ ] 
+      
 <p align="center"><img src="./assets/divider.svg" width="100%"/></p> <p align="center"><i>"Data is the new code — and I'm learning to write it."</i></p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0f172a&height=120&section=footer" width="100%"/> </p>
