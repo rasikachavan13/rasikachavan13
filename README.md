@@ -1,151 +1,40 @@
-# Hi ! I am Rasika Chavan.
- 
-### Computer Science Undergraduate | AI/ML & Software Engineering | Full-Stack Development | DSA
-
-I’m a Computer Science undergraduate student passionate about **building practical software, exploring AI/ML, and turning real-world problems into technology-driven solutions.**
-
-I enjoy working across the stack — from designing interfaces and mobile applications to building backend systems and experimenting with intelligent applications.
-
-Currently, I’m focused on strengthening my foundations in **Data Structures & Algorithms, Artificial Intelligence, Machine Learning, Full-Stack Development, and Cloud technologies.**
-
----
-
-# About Me
-
-* Computer Science undergraduate based in Pune, Maharashtra
-* Interested in **Software Engineering, AI/ML, Full-Stack Development & Mobile Development**
-* Currently strengthening **DSA, Python, C/C++, AI/ML and backend development**
-* Building cross-platform applications with **React Native & Expo**
-* Exploring **Computer Vision, Generative AI and intelligent applications**
-* Building web applications and APIs while learning modern development practices
-* Participating in hackathons and building solutions for real-world problems
-* Former **NCC Corporal**, developing leadership, discipline and teamwork
-* Interested in research, innovation and technology that creates practical impact
-* Always learning, building and improving
-
----
-
-# Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### AI and ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge\&logoColor=white)
-
-* Machine Learning
-* Computer Vision
-* Generative AI
-* AI-powered applications
-* Model experimentation
-
-### Web & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend & Database
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-# Featured Projects
-
-### AI Voice Agent
-
-A hands-on exploration of **AI voice agents using Google's Agent Development Kit**, covering conversational agents, tools, voice interaction, streaming, transcription, WebSockets and production-oriented failure handling.
-
-**Tech:** Python · Google ADK · Gemini · FastAPI · WebSockets
-
----
-
-### CareerIQ — AI-Powered Career Intelligence & Resume Analyzer
-
-A career-focused application designed to help users analyze resumes, understand career opportunities and make more informed career decisions.
-
-**Tech:** JavaScript · React Native/Expo · Python · Backend APIs
-
----
-
-### DevConnect
-
-A developer-focused web project created to explore modern web development, user interfaces and developer-oriented digital experiences.
-
-**Tech:** HTML · CSS · JavaScript
-
----
-
-### Hackholics — PitchLite
-
-A hackathon project designed to help users create a structured **one-minute pitch** using guided prompts and generate a clean, presentable summary.
-
-**Tech:** Web Development · JavaScript
-
----
-
-### Research & Technical Work
-
-Exploring AI/ML, software engineering and technology through academic and project-based work, including research-oriented development and experimentation.
-
----
-
-## Hackathons & Community
-
-* Participated in **Helix Hack Carnival / PitchLite Hackathon**
-* Building and experimenting with technology through hackathons and collaborative projects
-* Active in developer communities and technical events
-* Interested in technical leadership, community building and developer advocacy
-
----
-
-# Leadership
-
-### National Cadet Corps — Corporal
-
-Served as a Corporal in NCC, developing:
-
-* Leadership
-* Discipline
-* Team coordination
-* Communication
-* Decision-making
-* Responsibility
-
-These experiences continue to influence how I approach teamwork, projects and leadership in technology.
-
----
-
-# Let's Connect
-
-**LinkedIn:** [Rasika Chavan](https://www.linkedin.com/in/rasika-chavan-0a3761377/)
-
-**GitHub:** [@rasikachavan13](https://github.com/rasikachavan13)
-
----
-
-# Developer's Philosophy
-
-> **Build. Learn. Experiment. Improve. Repeat.**
-
-I’m always open to learning, collaborating and building something meaningful.
-If you find something interesting in my repositories, feel free to explore, contribute or connect!
-    i want actual developer mode readme like animations, stats ,snake in activity
+<!-- Header banner (animated wave). Change colors/text if you like --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:ec4899&height=200&section=header&text=Rasika&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Learner%20%7C%20Building%20smart%20things&descAlignY=58&descSize=18" width="100%"/> </p> <h1 align="center">Hi, I'm Rasika 👋</h1> <h3 align="center">AI/ML Learner | Python Developer | Computer Engineering @ YOUR COLLEGE</h3> <p align="center"> I explore machine learning, deep learning, and data science by building real projects — focusing on clean code, curiosity, and turning data into something useful. </p> <p align="center"> <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="YOUR_KAGGLE_LINK"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,opencv&perline=7" /> <br/> <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,mongodb,git,github,docker&perline=7" /> </p>
+👩‍💻 About Me
+yaml
+name: Rasika
+role: AI/ML Learner & Python Developer
+education: B.E. Computer Engineering, YOUR COLLEGE (2023 - 2027)
+location: YOUR CITY, India
+focus: Learning ML, one model at a time.
+🎓 Computer Engineering student diving deep into Artificial Intelligence & Machine Learning.
+🧠 Learning supervised & unsupervised learning, neural networks, NLP, and computer vision.
+📊 Love working with data using Pandas, NumPy, Matplotlib, and Scikit-learn.
+🤖 Building projects with TensorFlow, PyTorch, and OpenCV.
+🚀 Goal: build ML models that are accurate, explainable, and actually useful.
+🔭 Currently Working On
+🔹 [Project Name] – short one-line description (e.g., spam email classifier using NLP)
+🔹 [Project Name] – short one-line description (e.g., image classifier with CNN)
+📚 Learning: Deep Learning, Transformers, MLOps basics
+🛠️ Tech Stack
+Category	Tools
+Languages	Python, SQL, C++ / Java (edit)
+ML / DL	Scikit-learn, TensorFlow, Keras, PyTorch
+Data	Pandas, NumPy, Matplotlib, Seaborn
+CV / NLP	OpenCV, NLTK, Hugging Face
+Backend / Deploy	Flask, FastAPI, Streamlit, Docker
+Tools	Jupyter, Google Colab, VS Code, Git, GitHub
+📌 Featured Projects
+Project	Description	Tech
+🧪 Project 1	What it does in one line	Python, Scikit-learn
+👁️ Project 2	What it does in one line	OpenCV, TensorFlow
+💬 Project 3	What it does in one line	NLP, Flask
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /> </p>
+🎯 Goals
+ Master Python fundamentals
+ Learn core ML algorithms
+ Build & deploy 5 end-to-end ML projects
+ Learn deep learning with PyTorch
+ Participate in Kaggle competitions
+ Land an AI/ML internship
+<p align="center"><i>"Data is the new code — and I'm learning to write it."</i></p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0f172a&height=120&section=footer" width="100%"/> </p>
