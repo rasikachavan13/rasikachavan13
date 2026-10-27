@@ -14,11 +14,12 @@ Tools	Jupyter, Google Colab, VS Code, Git, GitHub
 
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /> </p>
+
 🎯 Goals
  Master Python fundamentals
  Learn core ML algorithms
  Build & deploy 5 end-to-end ML projects
  Learn deep learning with PyTorch
- Participate in Kaggle competitions
  Land an AI/ML internship
+ 
 <p align="center"><i>"Data is the new code — and I'm learning to write it."</i></p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0f172a&height=120&section=footer" width="100%"/> </p>
