@@ -14,7 +14,10 @@ Tech Stack
 | **Backend / Deploy** | Flask, FastAPI, Streamlit, Docker |
 | **Tools** | Jupyter, Google Colab, VS Code, Git, GitHub |
 
-<p align="center"><img src="./assets/divider.svg" width="100%"/></p> <!-- Contribution activity graph --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasikachavan13&bg_color=0d1117&color=ec4899&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="95%"/> </p> <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
+<p align="center"><img src="./assets/divider.svg" width="100%"/></p> <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rasikachavan13&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasikachavan13&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p> <p align="center"><img src="./assets/divider.svg" width="100%"/></p>
 
 🎯 Goals
 
